@@ -20,6 +20,7 @@ Contents :
 6. Create Python scripts to detect object in Videos. (See code : detection_in_videos.py)
 7. Build GUI using Streamlit for Detection in Images. (See code : app_images.py)
 8. References  
+9. Future Improvements 
 
 ### 1. Data Collection.
 
@@ -137,4 +138,22 @@ https://youtu.be/Gs15V79cauo
 
 - Object Detection Theory 
 Deep learning using Vision Systems by Mohamed Elgendy ( chapter 7)
+
+### 6. Future Improvements to develop model further 
+
+1. We can take this detection model further to track and use it to predict behaviour (predicting its actions ) and deploy this moeel to Edge devices .
+2. We can also make an andriod map which can detect different species of monkey .
+
+Different Methods to improve :
+1. ***Gather More Data***
+2. ***Scraping the Web ( which i used for this Project )***
+3. ***Image Preprocessing and Augmentation*** 
+4. ***Image Input Resolution Size***
+5. ***When to Use Pretrained Weights***
+6. ***Choosing a Model Size and Architecture***
+7. ***Picking Up From a Previous Training Run***
+8. ***Choosing the Best Model after Training***
+9. ***Track Your Model Evaluations***
+
+### **Reference** : https://www.youtube.com/watch?v=GUw6at85un8
   
