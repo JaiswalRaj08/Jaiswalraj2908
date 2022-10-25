@@ -1,5 +1,10 @@
 ## Custom Object Detection using YOLO
 
+Important 🚨
+
+Weights files of YOLOv4 Model trained on Custom Dataset : https://drive.google.com/drive/folders/17KI5A7rVd_QwC0neW8vdqMtKgbyPMEUy?usp=sharing
+
+
 Contents :
 1. Data Collection.
 2. Data Annotation.
