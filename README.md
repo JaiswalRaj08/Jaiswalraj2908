@@ -2,8 +2,14 @@
 
 Important 🚨
 
-Weights files of YOLOv4 Model trained on Custom Dataset : https://drive.google.com/drive/folders/17KI5A7rVd_QwC0neW8vdqMtKgbyPMEUy?usp=sharing
+Weights files of YOLOv4 Model trained on Custom Dataset :
 
+https://drive.google.com/drive/folders/17KI5A7rVd_QwC0neW8vdqMtKgbyPMEUy?usp=sharing
+
+Output of Model :
+
+1. Images : https://github.com/Jaiswalraj2908/Jaiswalraj2908/tree/main/results_of_models/images
+2. Videos : https://github.com/Jaiswalraj2908/Jaiswalraj2908/tree/main/results_of_models/videos
 
 Contents :
 1. Data Collection.
